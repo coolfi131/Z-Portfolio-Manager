@@ -3,7 +3,7 @@
 
 ## How to build
 
-
+Use python version 3.11 preferably
 
 ## Environment Variables
 
