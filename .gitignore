@@ -1,0 +1,15 @@
+__pycache__
+__pycache__/
+.env
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pyzw
+*.ipynb_checkpoints
+*.sqlite3
+env.json
+*.db
+*.log
+metadata.json

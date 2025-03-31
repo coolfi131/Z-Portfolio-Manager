@@ -1,0 +1,31 @@
+{
+    "target_allocation": {
+        "NEAR": 0.20,
+        "ETH": 0.20,
+        "BTC": 0.00,
+        "USDC": 0.30,
+        "SOL": 0.0,
+        "DOGE": 0.00,
+        "XRP": 0.00,
+        "ZEC": 0.30
+    },
+    "rebalance_threshold": 0.07,
+    "stop_loss": {
+        "NEAR": 0.15,
+        "ETH": 0.2,
+        "BTC": 0.25,
+        "SOL": 0.3,
+        "DOGE": 0.5,
+        "XRP": 0.5,
+        "ZEC": 0.5
+    },
+    "take_profit": {
+        "NEAR": 0.25,
+        "ETH": 0.3,
+        "BTC": 0.35,
+        "SOL": 0.4,
+        "DOGE": 0.6,
+        "XRP": 0.6,
+        "ZEC": 0.6
+    }
+}
